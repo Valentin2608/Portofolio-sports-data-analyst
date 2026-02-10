@@ -1,0 +1,70 @@
+from pathlib import Path
+import pandas as pd
+import numpy as np
+
+# =========================
+# Paths
+# =========================
+BASE_DIR = Path(__file__).resolve().parent.parent
+INPUT_PATH = BASE_DIR / "result" / "shots_raw.csv"
+OUTPUT_PATH = BASE_DIR / "result" / "shots_features.csv"
+
+# =========================
+# Load data
+# =========================
+df = pd.read_csv(INPUT_PATH)
+
+# =========================
+# Target variable
+# =========================
+df["is_goal"] = (df["outcome"] == "Goal").astype(int)
+
+# Exclude penalties
+df = df[df["shot_type"] != "Penalty"]
+
+# Header feature
+df["is_header"] = (df["body_part"] == "Head").astype(int)
+
+# =========================
+# Distance to goal
+# =========================
+GOAL_X = 120
+GOAL_Y = 40
+
+df["distance"] = np.sqrt(
+    (GOAL_X - df["x"])**2 +
+    (GOAL_Y - df["y"])**2
+)
+
+# =========================
+# Shot angle
+# =========================
+GOAL_WIDTH = 7.32
+LEFT_POST_Y = GOAL_Y - GOAL_WIDTH / 2
+RIGHT_POST_Y = GOAL_Y + GOAL_WIDTH / 2
+
+def compute_angle(x, y):
+    a = np.sqrt((GOAL_X - x)**2 + (LEFT_POST_Y - y)**2)
+    b = np.sqrt((GOAL_X - x)**2 + (RIGHT_POST_Y - y)**2)
+    c = GOAL_WIDTH
+
+    # sécurité numérique
+    cos_angle = (a**2 + b**2 - c**2) / (2 * a * b)
+    cos_angle = np.clip(cos_angle, -1, 1)
+
+    return np.arccos(cos_angle)
+
+df["angle"] = df.apply(lambda r: compute_angle(r["x"], r["y"]), axis=1)
+
+# =========================
+# Nettoyage minimal
+# =========================
+df = df.dropna(subset=["distance", "angle"])
+
+# =========================
+# Save
+# =========================
+df.to_csv(OUTPUT_PATH, index=False)
+
+print("Features calculées avec succès")
+print(df[["distance", "angle", "is_goal"]].describe())

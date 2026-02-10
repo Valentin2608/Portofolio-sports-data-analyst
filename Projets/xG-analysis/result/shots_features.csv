@@ -1,0 +1,437 @@
+match_id,team,player,x,y,outcome,body_part,shot_type,is_goal,is_header,distance,angle
+15978,Real Sociedad,Aritz Elustondo Irribaria,107.5,29.7,Goal,Left Foot,Open Play,1,0,16.196913286178944,0.3522249391036161
+15978,Real Sociedad,Juan Miguel Jiménez López,99.4,50.9,Wayward,Right Foot,Open Play,0,0,23.306007809146546,0.27730095729070675
+15978,Barcelona,Gerard Piqué Bernabéu,112.8,46.7,Off T,Head,Open Play,0,1,9.835141076771603,0.5639314789500716
+15978,Barcelona,Gerard Piqué Bernabéu,113.1,35.4,Saved,Right Foot,Open Play,0,0,8.29276793356718,0.7394700600885248
+15978,Barcelona,Ivan Rakitić,112.4,38.0,Off T,Head,Open Play,0,1,7.8587530817553946,0.8551679219374912
+15978,Real Sociedad,Mikel Oyarzabal Ugarte,105.4,34.7,Saved,Left Foot,Open Play,0,0,15.532224567009061,0.4385713137569019
+15978,Barcelona,Ousmane Dembélé,111.0,31.5,Wayward,Head,Open Play,0,1,12.379418403139947,0.44022983530319104
+15978,Real Sociedad,Mikel Oyarzabal Ugarte,109.0,53.1,Off T,Right Foot,Open Play,0,0,17.1058469536004,0.28076294851474026
+15978,Barcelona,Lionel Andrés Messi Cuccittini,97.8,43.6,Saved,Left Foot,Open Play,0,0,22.48999777678958,0.3187668780150805
+15978,Real Sociedad,Theo Bernard François Hernández,112.1,25.9,Saved,Left Foot,Open Play,0,0,16.16230181626368,0.22924076033903312
+15978,Real Sociedad,Juan Miguel Jiménez López,107.6,34.0,Saved,Right Foot,Open Play,0,0,13.775340286178055,0.47530804400520893
+15978,Barcelona,Gerard Piqué Bernabéu,115.9,45.7,Saved,Head,Open Play,0,1,7.021395872616782,0.6962431190166608
+15978,Barcelona,Luis Alberto Suárez Díaz,115.8,41.8,Goal,Right Foot,Open Play,1,0,4.569463863518346,1.3319987709632546
+15978,Barcelona,Philippe Coutinho Correia,98.1,28.9,Saved,Right Foot,Open Play,0,0,24.552392958732156,0.26555061553956055
+15978,Barcelona,Ousmane Dembélé,104.8,39.4,Goal,Left Foot,Open Play,1,0,15.211837495845138,0.47191313395241097
+15978,Barcelona,Luis Alberto Suárez Díaz,112.4,49.3,Off T,Left Foot,Open Play,0,0,12.010412149464308,0.40199284966900384
+15978,Barcelona,Lionel Andrés Messi Cuccittini,97.6,47.7,Off T,Left Foot,Open Play,0,0,23.68649404196409,0.29090670177892247
+15978,Real Sociedad,Juan Miguel Jiménez López,109.6,39.7,Off T,Head,Open Play,0,1,10.404326023342412,0.6763105674291483
+15978,Barcelona,Luis Alberto Suárez Díaz,106.6,41.4,Blocked,Right Foot,Open Play,0,0,13.472935834479438,0.5281429367947676
+15978,Real Sociedad,Mikel Merino Zazón,87.5,44.7,Blocked,Left Foot,Open Play,0,0,32.838087642248595,0.2197833456239237
+16023,Valencia,Ezequiel Marcelo Garay,118.8,42.7,Goal,Right Foot,Open Play,1,0,2.954657340538835,2.059050367351234
+16023,Valencia,Michy Batshuayi Tunga,106.5,27.4,Saved,Left Foot,Open Play,0,0,18.46645607581487,0.2929562038682062
+16023,Valencia,Geoffrey Kondogbia,97.2,45.3,Off T,Left Foot,Open Play,0,0,23.407904647789383,0.30263601438683696
+16023,Valencia,Michy Batshuayi Tunga,98.9,39.7,Saved,Right Foot,Open Play,0,0,21.10213259365033,0.3434354424156256
+16023,Barcelona,Luis Alberto Suárez Díaz,77.1,78.0,Off T,Right Foot,Open Play,0,0,57.309772290596314,0.09570992440970277
+16023,Barcelona,Lionel Andrés Messi Cuccittini,95.8,47.7,Saved,Left Foot,Open Play,0,0,25.395472037353436,0.2734702387689296
+16023,Barcelona,Lionel Andrés Messi Cuccittini,96.8,40.4,Goal,Left Foot,Open Play,1,0,23.203448019637083,0.31284887019626484
+16023,Valencia,Denis Cheryshev,109.6,39.3,Blocked,Right Foot,Open Play,0,0,10.423531071570714,0.6742573257937055
+16023,Valencia,José Luis Gayà Peña,109.0,24.1,Off T,Left Foot,Open Play,0,0,19.33416664870767,0.21980006451338077
+16023,Barcelona,Jordi Alba Ramos,102.8,28.6,Blocked,Right Foot,Open Play,0,0,20.63492185592182,0.2963052644898783
+16023,Valencia,Denis Cheryshev,98.6,36.6,Off T,Left Foot,Open Play,0,0,21.668410186259635,0.33081221317136517
+16023,Barcelona,Philippe Coutinho Correia,101.2,24.1,Saved,Right Foot,Open Play,0,0,24.622144504490258,0.22808515986005812
+16023,Barcelona,Lionel Andrés Messi Cuccittini,114.5,26.9,Saved,Left Foot,Open Play,0,0,14.207744367069674,0.21045795053325678
+16023,Valencia,Daniel Parejo Muñoz,96.1,22.5,Off T,Right Foot,Open Play,0,0,29.621951319924896,0.19977040717389544
+16023,Valencia,Michy Batshuayi Tunga,97.8,38.8,Blocked,Left Foot,Open Play,0,0,22.232408776378687,0.3258794723229341
+16023,Valencia,Kevin Gameiro,108.9,55.9,Off T,Right Foot,Open Play,0,0,19.39123513343077,0.22042579837254514
+16023,Barcelona,Lionel Andrés Messi Cuccittini,89.8,50.0,Off T,Left Foot,Free Kick,0,0,31.81257612957492,0.2178510394586131
+16023,Barcelona,Luis Alberto Suárez Díaz,101.5,22.1,Blocked,Right Foot,Open Play,0,0,25.74218327958994,0.20562651637734458
+16023,Barcelona,Lionel Andrés Messi Cuccittini,111.0,29.4,Off T,Right Foot,Open Play,0,0,13.905394636614957,0.35092085491230696
+16023,Barcelona,Lionel Andrés Messi Cuccittini,98.5,32.0,Saved,Right Foot,Open Play,0,0,22.940139493908923,0.2977482287174589
+16095,Levante UD,Emmanuel Okyere Boateng,109.2,55.2,Saved,Right Foot,Open Play,0,0,18.646179233290663,0.23222657822733137
+16095,Barcelona,Thomas Vermaelen,109.6,35.5,Off T,Head,Open Play,0,1,11.331813623599716,0.5846951500017542
+16095,Barcelona,Lionel Andrés Messi Cuccittini,95.6,40.7,Off T,Left Foot,Open Play,0,0,24.410038918445014,0.2975439142494389
+16095,Levante UD,Rubén Rochina Naixes,91.1,56.1,Blocked,Left Foot,Open Play,0,0,33.082019285406396,0.19324999555402947
+16095,Barcelona,Lionel Andrés Messi Cuccittini,94.7,50.2,Saved,Left Foot,Free Kick,0,0,27.278746305503116,0.2482119749058199
+16095,Levante UD,Rubén Rochina Naixes,93.6,56.4,Blocked,Left Foot,Free Kick,0,0,31.079253530289307,0.20016309914828917
+16095,Levante UD,Emmanuel Okyere Boateng,112.1,33.1,Post,Left Foot,Open Play,0,0,10.489041900955495,0.5393028493486385
+16095,Levante UD,José Ángel Gómez Campaña,107.3,26.5,Blocked,Left Foot,Open Play,0,0,18.534832073693035,0.27447867886398325
+16095,Barcelona,Lionel Andrés Messi Cuccittini,100.0,33.8,Blocked,Left Foot,Open Play,0,0,20.93895890439637,0.3317082058476059
+16095,Barcelona,Luis Alberto Suárez Díaz,109.7,40.9,Goal,Right Foot,Open Play,1,0,10.339245620450264,0.67859266792864
+16095,Levante UD,José Luis Morales Nogales,114.2,25.6,Blocked,Right Foot,Open Play,0,0,15.52417469626002,0.18441476794612074
+16095,Levante UD,Erick Cathriel Cabaco Almada,112.5,37.6,Saved,Head,Open Play,0,1,7.874642849044012,0.8460456840221984
+16095,Barcelona,Ivan Rakitić,90.9,57.6,Off T,Right Foot,Open Play,0,0,34.00838131990407,0.1842210938629204
+16095,Barcelona,Lionel Andrés Messi Cuccittini,111.4,49.0,Goal,Right Foot,Open Play,1,0,12.448293055676345,0.41842775216141614
+16095,Barcelona,Lionel Andrés Messi Cuccittini,103.6,38.4,Goal,Left Foot,Open Play,1,0,16.47786393923679,0.43532186846423476
+16095,Levante UD,Antonio García Aranda,104.3,24.2,Saved,Left Foot,Open Play,0,0,22.273975846265078,0.2337181622972852
+16095,Levante UD,Enis Bardhi,91.4,49.3,Off T,Left Foot,Open Play,0,0,30.07407521437691,0.23076326707989814
+16095,Levante UD,José Ángel Gómez Campaña,104.7,36.0,Blocked,Left Foot,Open Play,0,0,15.814234094637651,0.44195178277963565
+16095,Barcelona,Luis Alberto Suárez Díaz,112.0,50.1,Saved,Right Foot,Open Play,0,0,12.88448679614365,0.3663867599845471
+16095,Levante UD,Enis Bardhi,89.5,34.7,Saved,Right Foot,Free Kick,0,0,30.957067044537663,0.23201313627138007
+16095,Barcelona,Lionel Andrés Messi Cuccittini,115.3,37.7,Goal,Left Foot,Open Play,1,0,5.232590180780453,1.184719695356567
+16095,Levante UD,Erick Cathriel Cabaco Almada,115.8,31.3,Blocked,Right Foot,Open Play,0,0,9.660745312862772,0.36717383381822083
+16095,Barcelona,Arthur Henrique Ramos de Oliveira Melo,94.0,36.8,Saved,Right Foot,Open Play,0,0,26.196182928052707,0.2756577506460892
+16095,Levante UD,Enis Bardhi,91.7,45.5,Off T,Right Foot,Open Play,0,0,28.8294987816299,0.2481066523785787
+16095,Levante UD,Sanjin Prcić,90.4,45.9,Wayward,Right Foot,Open Play,0,0,30.182279569310193,0.23686572144452564
+16095,Levante UD,José Ángel Gómez Campaña,91.3,28.3,Off T,Right Foot,Open Play,0,0,30.99322506613341,0.2182650476698513
+16095,Barcelona,Lionel Andrés Messi Cuccittini,95.3,48.2,Off T,Left Foot,Free Kick,0,0,26.025564355072113,0.26587487394915177
+16095,Levante UD,Sanjin Prcić,94.9,40.7,Off T,Right Foot,Open Play,0,0,25.109759058979435,0.2893751699318231
+16095,Barcelona,Luis Alberto Suárez Díaz,103.3,43.8,Off T,Right Foot,Open Play,0,0,17.12687945890903,0.4117287110789737
+16095,Levante UD,Borja Mayoral Moya,105.9,50.2,Saved,Right Foot,Open Play,0,0,17.40258601472781,0.34251960872665427
+16095,Levante UD,David Remeseiro Salgueiro,100.3,46.3,Off T,Right Foot,Open Play,0,0,20.682843131445928,0.33488815970373953
+16095,Barcelona,Philippe Coutinho Correia,101.2,36.0,Off T,Right Foot,Open Play,0,0,19.220822042774337,0.36882637444132543
+16095,Barcelona,Denis Suárez Fernández,109.5,48.5,Saved,Right Foot,Open Play,0,0,13.509256086106296,0.4265998694131904
+16095,Levante UD,Sanjin Prcić,100.0,42.7,Blocked,Left Foot,Open Play,0,0,20.18142710513803,0.35585085603906613
+16095,Barcelona,Gerard Piqué Bernabéu,109.4,37.4,Goal,Left Foot,Open Play,1,0,10.914210919713797,0.6331225368054971
+16095,Levante UD,Sanjin Prcić,95.0,39.7,Saved,Right Foot,Open Play,0,0,25.001799935204666,0.2906942319638849
+16120,Getafe,Ángel Luis Rodríguez Díaz,103.7,48.2,Off T,Right Foot,Open Play,0,0,18.246369501903658,0.35737228824421047
+16120,Getafe,Vitorino Gabriel Pacheco Antunes,91.0,33.7,Wayward,Left Foot,Open Play,0,0,29.67642161716941,0.24004196295763192
+16120,Barcelona,Lionel Andrés Messi Cuccittini,108.5,34.0,Saved,Left Foot,Open Play,0,0,12.971121771072847,0.49792203132716795
+16120,Barcelona,Lionel Andrés Messi Cuccittini,117.0,31.0,Goal,Left Foot,Open Play,1,0,9.486832980505138,0.2791808089883538
+16120,Barcelona,Luis Alberto Suárez Díaz,117.0,52.0,Saved,Right Foot,Open Play,0,0,12.36931687685298,0.15602314651918944
+16120,Barcelona,Gerard Piqué Bernabéu,114.4,35.3,Saved,Left Foot,Open Play,0,0,7.310950690573693,0.7969663289871468
+16120,Barcelona,Luis Alberto Suárez Díaz,103.6,31.7,Blocked,Right Foot,Open Play,0,0,18.380696395947577,0.3543795721197496
+16120,Barcelona,Luis Alberto Suárez Díaz,100.5,46.9,Goal,Right Foot,Open Play,1,0,20.68477701112584,0.33167395026872276
+16120,Getafe,Mauro Wilney Arambarri Rosa,106.8,35.1,Wayward,Right Foot,Open Play,0,0,14.080127840328725,0.48164482847941054
+16120,Getafe,Ángel Luis Rodríguez Díaz,102.6,43.9,Off T,Right Foot,Open Play,0,0,17.831713322056302,0.39608290490042125
+16120,Getafe,Jaime Mata Arnaiz,118.7,39.4,Goal,Right Foot,Open Play,1,0,1.4317821063276335,2.4436724724799923
+16120,Getafe,Mauro Wilney Arambarri Rosa,90.9,45.2,Off T,Right Foot,Open Play,0,0,29.56095397648729,0.24267858731054406
+16120,Getafe,Ángel Luis Rodríguez Díaz,112.8,51.6,Off T,Right Foot,Open Play,0,0,13.652838532700812,0.2957079006612312
+16120,Barcelona,Lionel Andrés Messi Cuccittini,106.1,31.1,Saved,Right Foot,Open Play,0,0,16.505150711217397,0.3742948673882917
+16120,Getafe,Leandro Daniel Cabrera Sasía,111.7,35.9,Saved,Head,Open Play,0,1,9.257429448826493,0.6988244435961446
+16120,Getafe,Vitorino Gabriel Pacheco Antunes,90.0,29.1,Blocked,Left Foot,Open Play,0,0,31.918803235710453,0.21504026708523039
+16120,Barcelona,Lionel Andrés Messi Cuccittini,95.8,30.9,Off T,Left Foot,Free Kick,0,0,25.854400012377006,0.2641092147859209
+16120,Barcelona,Lionel Andrés Messi Cuccittini,101.3,42.5,Saved,Left Foot,Open Play,0,0,18.866372200293306,0.3801697028906315
+16120,Getafe,Jorge Molina Vidal,107.4,29.0,Blocked,Left Foot,Open Play,0,0,16.726027621644054,0.33334131535239897
+16120,Barcelona,Lionel Andrés Messi Cuccittini,92.9,40.1,Saved,Left Foot,Open Play,0,0,27.100184501216955,0.26848262750221796
+16120,Barcelona,Clément Lenglet,114.1,38.7,Off T,Head,Open Play,0,1,6.041522986797291,1.079563563332424
+16120,Barcelona,Lionel Andrés Messi Cuccittini,88.3,51.0,Off T,Left Foot,Free Kick,0,0,33.55428437621641,0.20563171293880275
+16120,Barcelona,Luis Alberto Suárez Díaz,115.2,53.4,Blocked,Right Foot,Open Play,0,0,14.233762678926466,0.183612312357228
+16131,Eibar,Sergio Enrich Ametller,112.3,48.1,Wayward,Right Foot,Open Play,0,0,11.17586685675881,0.4680273917716735
+16131,Eibar,José Ángel Valdés Díaz,97.9,25.5,Blocked,Right Foot,Open Play,0,0,26.432177360179764,0.2318279775937979
+16131,Eibar,Anaitz Arbilla Zabala,108.2,41.9,Wayward,Head,Open Play,0,1,11.951987282456416,0.5883932541463206
+16131,Barcelona,Luis Alberto Suárez Díaz,107.2,29.2,Goal,Right Foot,Open Play,1,0,16.747537132366656,0.33739664613762504
+16131,Eibar,Gonzalo Escalante,99.3,42.3,Blocked,Left Foot,Open Play,0,0,20.82738581771606,0.3459464061821996
+16131,Eibar,Sergio Enrich Ametller,107.9,43.0,Off T,Head,Open Play,0,1,12.466354719804817,0.5576518656607774
+16131,Barcelona,Sergi Roberto Carnicer,112.5,48.2,Off T,Head,Open Play,0,1,11.112605455067683,0.4625774095321065
+16131,Eibar,Fabián Ariel Orellana Valenzuela,95.4,47.8,Off T,Left Foot,Open Play,0,0,25.806975801127873,0.2692290067612273
+16131,Barcelona,Lionel Andrés Messi Cuccittini,110.5,30.6,Goal,Left Foot,Open Play,1,0,13.364505228402582,0.3983992652837692
+16131,Eibar,Joan Jordán Moreno,98.7,27.7,Blocked,Right Foot,Open Play,0,0,24.596341191323557,0.25769660330504424
+16131,Eibar,Pedro Bigas Rigo,107.1,31.8,Off T,Left Foot,Open Play,0,0,15.285614151874963,0.4050193433990759
+16131,Barcelona,Luis Alberto Suárez Díaz,111.9,40.9,Saved,Head,Open Play,0,1,8.14984662432367,0.8411434187264735
+16131,Barcelona,Philippe Coutinho Correia,117.0,28.1,Saved,Left Foot,Open Play,0,0,12.2723265927859,0.15869573742940293
+16131,Barcelona,Lionel Andrés Messi Cuccittini,101.1,37.7,Saved,Left Foot,Open Play,0,0,19.039432764659775,0.37730752420153063
+16131,Barcelona,Luis Alberto Suárez Díaz,115.0,52.2,Goal,Right Foot,Open Play,1,0,13.18483977907961,0.2242786960474335
+16131,Eibar,Sergio Enrich Ametller,112.9,37.5,Off T,Head,Open Play,0,1,7.52728370662352,0.8765760812777422
+16131,Eibar,Gonzalo Escalante,116.7,46.2,Off T,Right Foot,Open Play,0,0,7.023531875061152,0.5918407759844097
+16131,Eibar,Pablo Ezequiel De Blasis,111.0,32.5,Saved,Head,Open Play,0,1,11.715374513859981,0.4888523543277481
+16131,Eibar,Enrique García Martínez,115.9,24.0,Saved,Left Foot,Open Play,0,0,16.516960979550685,0.11517929119978886
+16131,Eibar,Fabián Ariel Orellana Valenzuela,114.9,47.7,Wayward,Right Foot,Open Play,0,0,9.235799911215054,0.47888098842861937
+16131,Eibar,Enrique García Martínez,115.0,48.5,Off T,Right Foot,Open Play,0,0,9.86154146165801,0.4115462916285968
+16131,Eibar,Papa Kouly Diop,94.3,35.9,Blocked,Left Foot,Open Play,0,0,26.024987992312315,0.2761217728531304
+16131,Eibar,Anaitz Arbilla Zabala,110.5,44.1,Off T,Head,Open Play,0,1,10.34698023579827,0.638643768621085
+19717,Arsenal WFC,Vivianne Miedema,111.0,46.0,Blocked,Right Foot,Open Play,0,0,10.816653826391969,0.5663851413815625
+19717,Arsenal WFC,Vivianne Miedema,115.0,44.0,Goal,Right Foot,Open Play,1,0,6.4031242374328485,0.9246007898211285
+19717,Arsenal WFC,Lisa Evans,111.0,43.0,Goal,Right Foot,Open Play,1,0,9.486832980505138,0.7102726283635808
+19717,Arsenal WFC,Danielle van de Donk,105.0,40.0,Blocked,Left Foot,Open Play,0,0,15.0,0.4786473619894159
+19717,Liverpool WFC,Laura Coombs,97.0,51.0,Blocked,Left Foot,Open Play,0,0,25.495097567963924,0.25854638215586034
+19717,Liverpool WFC,Christie Murray,109.0,44.0,Blocked,Right Foot,Open Play,0,0,11.704699910719626,0.5773820270241233
+19717,Arsenal WFC,Vivianne Miedema,107.0,28.0,Saved,Right Foot,Open Play,0,0,17.69180601295413,0.30754146966067314
+19717,Arsenal WFC,Katie McCabe,97.0,28.0,Blocked,Left Foot,Open Play,0,0,25.942243542145693,0.2499079770632643
+19717,Arsenal WFC,Louise Quinn,111.0,37.0,Wayward,Head,Open Play,0,1,9.486832980505138,0.7102726283635808
+19717,Arsenal WFC,Louise Quinn,112.0,47.0,Off T,Head,Open Play,0,1,10.63014581273465,0.531494129225016
+19717,Liverpool WFC,Christie Murray,100.0,56.0,Saved,Left Foot,Open Play,0,0,25.612496949731394,0.2239996924068304
+19717,Arsenal WFC,Kim Little,110.0,31.0,Goal,Left Foot,Open Play,1,0,13.45362404707371,0.41177463853983687
+19717,Arsenal WFC,Vivianne Miedema,108.0,35.0,Blocked,Left Foot,Open Play,0,0,13.0,0.5139138642448875
+19717,Arsenal WFC,Vivianne Miedema,113.0,40.0,Blocked,Right Foot,Open Play,0,0,7.0,0.963531343073726
+19717,Arsenal WFC,Bethany Mead,115.0,49.0,Post,Right Foot,Open Play,0,0,10.295630140987,0.3763872109696879
+19717,Liverpool WFC,Rinsola Babajide,96.0,43.0,Off T,Left Foot,Open Play,0,0,24.186773244895647,0.2981820230660619
+19717,Liverpool WFC,Rinsola Babajide,89.0,42.0,Blocked,Left Foot,Open Play,0,0,31.064449134018133,0.23408875803826978
+19717,Liverpool WFC,Christie Murray,90.0,39.0,Off T,Right Foot,Open Play,0,0,30.01666203960727,0.24253719396461185
+19717,Arsenal WFC,Jordan Nobbs,110.0,53.0,Saved,Right Foot,Open Play,0,0,16.401219466856727,0.2789150655431878
+19717,Arsenal WFC,Vivianne Miedema,114.0,34.0,Blocked,Left Foot,Open Play,0,0,8.48528137423857,0.6431373508951367
+19717,Arsenal WFC,Vivianne Miedema,104.0,41.0,Blocked,Left Foot,Open Play,0,0,16.0312195418814,0.4481533108517188
+19717,Arsenal WFC,Jordan Nobbs,93.0,44.0,Saved,Right Foot,Open Play,0,0,27.294688127912362,0.26384790638901784
+19717,Arsenal WFC,Lia Wälti,108.0,28.0,Blocked,Left Foot,Open Play,0,0,16.97056274847714,0.3095925826558117
+19717,Liverpool WFC,Niamh Charles,117.0,45.0,Saved,Left Foot,Open Play,0,0,5.830951894845301,0.8172356131560818
+19717,Liverpool WFC,Sophie Elizabeth Bradley-Auckland,108.0,36.0,Saved,Head,Open Play,0,1,12.649110640673518,0.5398041725446996
+19717,Arsenal WFC,Katie McCabe,94.0,45.0,Saved,Left Foot,Open Play,0,0,26.476404589747453,0.27002686566825723
+19717,Arsenal WFC,Vivianne Miedema,105.0,40.0,Off T,Left Foot,Open Play,0,0,15.0,0.4786473619894159
+19717,Arsenal WFC,Jordan Nobbs,106.0,55.0,Off T,Right Foot,Open Play,0,0,20.518284528683193,0.24631492132340504
+19717,Arsenal WFC,Vivianne Miedema,106.0,45.0,Goal,Right Foot,Open Play,1,0,14.866068747318506,0.45853956532546547
+19717,Liverpool WFC,Courtney Sweetman-Kirk,84.0,38.0,Off T,Right Foot,Open Play,0,0,36.05551275463989,0.20202412466046094
+19733,Birmingham City WFC,Emma Follis,103.0,55.0,Saved,Right Foot,Open Play,0,0,22.67156809750927,0.2436412918312
+19733,Manchester City WFC,Stephanie Houghton,106.0,37.0,Blocked,Head,Open Play,0,1,14.317821063276353,0.49113894754256987
+19733,Manchester City WFC,Georgia Stanway,87.0,47.0,Wayward,Right Foot,Open Play,0,0,33.734255586866,0.2115807174203805
+19733,Birmingham City WFC,Chloe Arthur,91.0,39.0,Off T,Left Foot,Open Play,0,0,29.017236257093817,0.2507958243679795
+19733,Birmingham City WFC,Lucy Staniforth,113.0,42.0,Wayward,Right Foot,Open Play,0,0,7.280109889280518,0.9127873142810397
+19733,Birmingham City WFC,Hayley Ladd,102.0,40.0,Off T,Right Foot,Open Play,0,0,18.0,0.40119724769543524
+19733,Manchester City WFC,Georgia Stanway,95.0,32.0,Off T,Right Foot,Open Play,0,0,26.248809496813376,0.2645212140716381
+19733,Manchester City WFC,Caroline Weir,92.0,21.0,Off T,Right Foot,Open Play,0,0,33.83784863137726,0.179180837713112
+19733,Birmingham City WFC,Emma Follis,101.0,58.0,Saved,Right Foot,Open Play,0,0,26.1725046566048,0.20419983172081468
+19733,Manchester City WFC,Jennifer Patricia Beattie,108.0,47.0,Blocked,Head,Open Play,0,1,13.892443989449804,0.45486937450352677
+19733,Manchester City WFC,Tessa Wullaert,100.0,53.0,Off T,Left Foot,Open Play,0,0,23.853720883753127,0.25764067515874234
+19733,Manchester City WFC,Nikita Parris,106.0,33.0,Saved,Right Foot,Open Play,0,0,15.652475842498529,0.41658158475845114
+19733,Birmingham City WFC,Meaghan Sargeant,114.0,44.0,Goal,Head,Open Play,1,1,7.211102550927978,0.849721767477455
+19733,Manchester City WFC,Caroline Weir,107.0,45.0,Goal,Left Foot,Open Play,1,0,13.92838827718412,0.4849333161672219
+19733,Birmingham City WFC,Lucy Staniforth,100.0,32.0,Saved,Right Foot,Open Play,0,0,21.540659228538015,0.3141387006624982
+19733,Manchester City WFC,Nikita Parris,104.0,61.0,Blocked,Right Foot,Open Play,0,0,26.40075756488817,0.16967975545741612
+19733,Manchester City WFC,Tessa Wullaert,91.0,48.0,Saved,Right Foot,Open Play,0,0,30.083217912982647,0.23373600374801018
+19733,Manchester City WFC,Nikita Parris,113.0,39.0,Goal,Right Foot,Open Play,1,0,7.0710678118654755,0.950489982982555
+19733,Manchester City WFC,Keira Walsh,95.0,51.0,Blocked,Right Foot,Open Play,0,0,27.313000567495326,0.24478453562131883
+19733,Manchester City WFC,Tessa Wullaert,100.0,58.0,Goal,Right Foot,Open Play,1,0,26.90724809414742,0.20317899343816798
+19733,Birmingham City WFC,Hayley Ladd,94.0,15.0,Saved,Right Foot,Open Play,0,0,36.069377593742864,0.14674684041184097
+19733,Manchester City WFC,Georgia Stanway,107.0,24.0,Saved,Right Foot,Open Play,0,0,20.615528128088304,0.22720102411208692
+19733,Manchester City WFC,Caroline Weir,95.0,49.0,Post,Left Foot,Free Kick,0,0,26.570660511172846,0.25831685943035176
+19733,Manchester City WFC,Georgia Stanway,105.0,54.0,Wayward,Left Foot,Open Play,0,0,20.518284528683193,0.26313278874452084
+19733,Manchester City WFC,Caroline Weir,95.0,38.0,Saved,Left Foot,Open Play,0,0,25.079872407968907,0.2889492546674073
+19733,Birmingham City WFC,Lucy Staniforth,117.0,54.0,Saved,Right Foot,Open Play,0,0,14.317821063276353,0.11411323202629772
+19775,Reading WFC,Remi Allen,96.0,53.0,Blocked,Right Foot,Open Play,0,0,27.294688127912362,0.23566768422967385
+19775,Reading WFC,Fara Williams,95.0,33.0,Blocked,Left Foot,Open Play,0,0,25.96150997149434,0.27024233029989686
+19775,Liverpool WFC,Courtney Sweetman-Kirk,108.0,34.0,Goal,Right Foot,Open Play,1,0,13.416407864998739,0.485199017916681
+19775,Reading WFC,Brooke Chaplen,112.0,59.0,Blocked,Right Foot,Open Play,0,0,20.615528128088304,0.14132408872656532
+19775,Reading WFC,Rachel Furness,112.0,33.0,Blocked,Left Foot,Open Play,0,0,10.63014581273465,0.531494129225016
+19775,Reading WFC,Fara Williams,102.0,60.0,Blocked,Left Foot,Open Play,0,0,26.90724809414742,0.18333747249031665
+19775,Reading WFC,Mayumi Pacheco,101.0,30.0,Off T,Left Foot,Open Play,0,0,21.470910553583888,0.30126314575052116
+19775,Reading WFC,Fara Williams,89.0,41.0,Saved,Right Foot,Open Play,0,0,31.016124838541646,0.234802201624371
+19775,Liverpool WFC,Kirsty Linnett,95.0,49.0,Saved,Left Foot,Open Play,0,0,26.570660511172846,0.25831685943035176
+19775,Liverpool WFC,Jessica Anne Clarke,112.0,35.0,Off T,Head,Open Play,0,1,9.433981132056603,0.6590339261642636
+19775,Liverpool WFC,Jessica Anne Clarke,104.0,52.0,Off T,Left Foot,Open Play,0,0,20.0,0.2941567426761246
+19775,Liverpool WFC,Courtney Sweetman-Kirk,115.0,34.0,Off T,Head,Open Play,0,1,7.810249675906654,0.6554478745928638
+19775,Reading WFC,Fara Williams,108.0,49.0,Off T,Right Foot,Open Play,0,0,15.0,0.39346761452341295
+19775,Reading WFC,Fara Williams,94.0,46.0,Off T,Right Foot,Free Kick,0,0,26.68332812825267,0.2659742743547009
+19775,Liverpool WFC,Jessica Anne Clarke,106.0,20.0,Blocked,Right Foot,Open Play,0,0,24.413111231467404,0.17411859958510614
+19775,Reading WFC,Charlotte Estcourt,90.0,60.0,Saved,Right Foot,Open Play,0,0,36.05551275463989,0.16905276591907928
+19775,Reading WFC,Remi Allen,90.0,41.0,Off T,Right Foot,Open Play,0,0,30.01666203960727,0.24253719396461185
+19775,Reading WFC,Brooke Chaplen,108.0,52.0,Off T,Right Foot,Open Play,0,0,16.97056274847714,0.3095925826558117
+19775,Reading WFC,Fara Williams,107.0,23.0,Saved,Left Foot,Open Play,0,0,21.400934559032695,0.21085167207337924
+19775,Reading WFC,Fara Williams,98.0,51.0,Off T,Right Foot,Open Play,0,0,24.596747752497688,0.26576952712398905
+19775,Reading WFC,Fara Williams,99.0,41.0,Off T,Left Foot,Open Play,0,0,21.02379604162864,0.34436208669986823
+19775,Reading WFC,Brooke Chaplen,114.0,32.0,Off T,Left Foot,Open Play,0,0,10.0,0.4693381791262921
+19775,Reading WFC,Fara Williams,89.0,27.0,Goal,Right Foot,Free Kick,1,0,33.61547262794322,0.20049293026284035
+19775,Liverpool WFC,Courtney Sweetman-Kirk,118.0,39.0,Goal,Head,Open Play,1,1,2.23606797749979,2.091479969669102
+19775,Reading WFC,Rachel Furness,89.0,26.0,Off T,Left Foot,Open Play,0,0,34.0147027033899,0.19588092890574188
+19775,Reading WFC,Kirstyn Pearce,92.0,54.0,Off T,Right Foot,Open Play,0,0,31.304951684997057,0.20894641727253602
+19775,Reading WFC,Rachel Furness,99.0,22.0,Off T,Left Foot,Open Play,0,0,27.65863337187866,0.20174029758036713
+19775,Reading WFC,Fara Williams,91.0,49.0,Goal,Left Foot,Open Play,1,0,30.364452901377952,0.22951613775908702
+19775,Reading WFC,Rachel Furness,110.0,39.0,Off T,Head,Open Play,0,1,10.04987562112089,0.6960594565863748
+19775,Reading WFC,Fara Williams,82.0,33.0,Saved,Right Foot,Open Play,0,0,38.63935817272331,0.18582725173445255
+19775,Reading WFC,Molly Bartrip,92.0,40.0,Off T,Left Foot,Open Play,0,0,28.0,0.2599547094013491
+19775,Reading WFC,Molly Bartrip,100.0,39.0,Off T,Right Foot,Open Play,0,0,20.024984394500787,0.3611397948230591
+19775,Reading WFC,Remi Allen,99.0,50.0,Post,Right Foot,Open Play,0,0,23.259406699226016,0.28350653874736914
+19792,Yeovil Town LFC,Bonnie Horwood,92.0,28.0,Off T,Right Foot,Free Kick,0,0,30.463092423455635,0.2204546814886703
+19792,Bristol City WFC,Julie Biesmans,89.0,55.0,Saved,Right Foot,Open Play,0,0,34.438350715445125,0.19115512165478424
+19792,Bristol City WFC,Rosella Ayane,99.0,55.0,Wayward,Left Foot,Open Play,0,0,25.80697580112788,0.23133170935423786
+19792,Bristol City WFC,Lucy Hope,97.0,27.0,Saved,Right Foot,Open Play,0,0,26.419689627245813,0.24113786529565673
+19792,Yeovil Town LFC,Anne-Marie Heatherson,100.0,56.0,Off T,Left Foot,Open Play,0,0,25.612496949731394,0.2239996924068304
+19792,Bristol City WFC,Rosella Ayane,101.0,60.0,Saved,Right Foot,Open Play,0,0,27.586228448267445,0.1839315742639957
+19792,Bristol City WFC,Carla Humphrey,104.0,52.0,Blocked,Left Foot,Open Play,0,0,20.0,0.2941567426761246
+19792,Bristol City WFC,Julie Biesmans,90.0,37.0,Saved,Right Foot,Free Kick,0,0,30.14962686336267,0.24045362290239597
+19792,Bristol City WFC,Lucy Hope,109.0,32.0,Saved,Left Foot,Open Play,0,0,13.601470508735444,0.43872078821651556
+19792,Yeovil Town LFC,Anne-Marie Heatherson,116.0,41.0,Goal,Left Foot,Open Play,1,0,4.123105625617661,1.4483114602875398
+19792,Bristol City WFC,Lucy Hope,105.0,26.0,Saved,Right Foot,Open Play,0,0,20.518284528683193,0.26313278874452084
+19792,Bristol City WFC,Poppy Pattinson,98.0,22.0,Blocked,Left Foot,Open Play,0,0,28.42534080710379,0.19995855401866114
+19792,Bristol City WFC,Rosella Ayane,101.0,31.0,Wayward,Right Foot,Open Play,0,0,21.02379604162864,0.3137751082057479
+19792,Bristol City WFC,Rosella Ayane,94.0,48.0,Goal,Left Foot,Open Play,1,0,27.202941017470888,0.25617565665442993
+19792,Bristol City WFC,Julie Biesmans,95.0,27.0,Off T,Left Foot,Open Play,0,0,28.178005607210743,0.2302752570120106
+19792,Bristol City WFC,Lucy Hope,105.0,37.0,Off T,Left Foot,Open Play,0,0,15.297058540778355,0.46182477261861243
+19792,Yeovil Town LFC,Olivia Fergusson,108.0,43.0,Wayward,Head,Open Play,0,1,12.36931687685298,0.5616185180743135
+19792,Yeovil Town LFC,Olivia Fergusson,99.0,30.0,Saved,Right Foot,Open Play,0,0,23.259406699226016,0.28350653874736914
+19792,Bristol City WFC,Lucy Hope,93.0,54.0,Saved,Right Foot,Open Play,0,0,30.4138126514911,0.21350035826172126
+2275030,Brighton & Hove Albion WFC,Aileen Whelan,99.1,33.8,Off T,Left Foot,Open Play,0,0,21.800229356591647,0.3198719060945137
+2275030,Tottenham Hotspur Women,Ashleigh Neville,107.5,55.3,Off T,Left Foot,Open Play,0,0,19.75702406740448,0.23813543018345568
+2275030,Tottenham Hotspur Women,Angela Addison,101.4,21.7,Saved,Left Foot,Open Play,0,0,26.09310253687744,0.20122622806594911
+2275030,Tottenham Hotspur Women,Rianna Dean,112.7,41.5,Blocked,Head,Open Play,0,1,7.452516353554681,0.9029903216873173
+2275030,Tottenham Hotspur Women,Ria Percival,94.3,52.1,Off T,Right Foot,Open Play,0,0,28.405985284795175,0.23278216117615214
+2275030,Brighton & Hove Albion WFC,Aileen Whelan,111.7,54.6,Off T,Left Foot,Open Play,0,0,16.794344286098223,0.22240807707274046
+2275030,Tottenham Hotspur Women,Siri Worm,88.2,40.2,Saved,Left Foot,Open Play,0,0,31.80062892459833,0.22917139972263656
+2275030,Brighton & Hove Albion WFC,Aileen Whelan,103.7,53.4,Blocked,Left Foot,Open Play,0,0,21.10094784600919,0.269562854033657
+2275030,Brighton & Hove Albion WFC,Aileen Whelan,94.7,49.4,Saved,Right Foot,Open Play,0,0,26.98981289301576,0.25342710107879113
+2275030,Tottenham Hotspur Women,Rianna Dean,117.2,44.5,Saved,Head,Open Play,0,1,5.299999999999998,0.9487915509266087
+2275030,Tottenham Hotspur Women,Ria Percival,91.3,25.3,Saved,Right Foot,Open Play,0,0,32.24561985758686,0.20189488796893004
+2275030,Brighton & Hove Albion WFC,Iniabasi Anefiok Umotong,94.6,56.9,Off T,Right Foot,Open Play,0,0,30.508523399207643,0.1999654502701663
+2275030,Brighton & Hove Albion WFC,Kayleigh Green,113.9,42.8,Off T,Right Foot,Open Play,0,0,6.711929677819927,0.9541132479699831
+2275030,Tottenham Hotspur Women,Kit Graham,101.4,46.5,Saved,Left Foot,Open Play,0,0,19.703045449879056,0.34843129766370656
+2275030,Tottenham Hotspur Women,Josie Green,109.1,47.4,Off T,Right Foot,Open Play,0,0,13.174596768022925,0.4621521215727662
+2275030,Brighton & Hove Albion WFC,Iniabasi Anefiok Umotong,117.2,62.8,Off T,Right Foot,Open Play,0,0,22.971286424577965,0.03983235557793244
+2275030,Brighton & Hove Albion WFC,Kate Natkiel,95.2,54.7,Off T,Right Foot,Open Play,0,0,28.82932534763864,0.21845596286359364
+2275056,Liverpool WFC,Melissa Lawley,92.2,31.1,Saved Off Target,Right Foot,Open Play,0,0,29.189895511974683,0.23804521258324313
+2275056,Liverpool WFC,Niamh Charles,88.4,38.1,Blocked,Right Foot,Open Play,0,0,31.657068720903386,0.22980539275766756
+2275056,Liverpool WFC,Niamh Charles,104.2,38.9,Wayward,Right Foot,Open Play,0,0,15.838244852255565,0.4532470932192324
+2275056,Everton LFC,Chantelle Boye-Hlorkah,93.3,53.6,Off T,Right Foot,Open Play,0,0,29.964145240603813,0.21748192372886807
+2275056,Liverpool WFC,Kirsty Linnett,101.9,53.6,Blocked,Right Foot,Open Play,0,0,22.640008833920533,0.2594402466665691
+2275056,Liverpool WFC,Kirsty Linnett,114.8,40.6,Saved,Head,Open Play,0,1,5.234500931320963,1.2182496545186405
+2275056,Liverpool WFC,Melissa Lawley,88.8,28.7,Blocked,Right Foot,Open Play,0,0,33.183278921770224,0.2069567762611557
+2275056,Liverpool WFC,Kirsty Linnett,99.6,49.5,Off T,Right Foot,Open Play,0,0,22.50355527466716,0.2941039547435578
+2275056,Liverpool WFC,Niamh Charles,85.5,44.7,Off T,Right Foot,Open Play,0,0,34.81867315105502,0.20760057234444004
+2275056,Liverpool WFC,Rhiannon Roberts,82.7,35.1,Saved,Right Foot,Open Play,0,0,37.620473149602994,0.1923528140581232
+2275056,Liverpool WFC,Kirsty Linnett,86.9,42.3,Off T,Right Foot,Open Play,0,0,33.17981313991987,0.21921597973551726
+2275056,Everton LFC,Lucy Hope,88.3,26.5,Goal,Right Foot,Open Play,1,0,34.45489805528381,0.19517872710372064
+2275056,Everton LFC,Hannah Cain,99.5,53.2,Off T,Left Foot,Open Play,0,0,24.382165613415065,0.25271586286580733
+2275056,Liverpool WFC,Courtney Sweetman-Kirk,86.9,35.2,Off T,Right Foot,Open Play,0,0,33.446225497057206,0.2158045785104472
+2275056,Liverpool WFC,Melissa Lawley,91.2,30.0,Blocked,Right Foot,Open Play,0,0,30.486718419665962,0.22619880148856725
+2275056,Everton LFC,Chantelle Boye-Hlorkah,94.0,25.1,Saved,Right Foot,Open Play,0,0,29.966814979239953,0.21191435495367644
+2275056,Liverpool WFC,Melissa Lawley,80.1,41.4,Off T,Right Foot,Free Kick,0,0,39.924553848477764,0.18272482719733057
+2275056,Liverpool WFC,Niamh Charles,105.7,39.5,Blocked,Left Foot,Open Play,0,0,14.308738588708646,0.5005797220999164
+2275056,Liverpool WFC,Rhiannon Roberts,110.3,56.4,Blocked,Right Foot,Open Play,0,0,19.053870997778905,0.20034485640669947
+2275056,Everton LFC,Chantelle Boye-Hlorkah,105.0,30.9,Blocked,Right Foot,Open Play,0,0,17.5445148123281,0.3569666819942228
+2275056,Liverpool WFC,Niamh Charles,107.2,42.5,Off T,Right Foot,Open Play,0,0,13.04185569618066,0.5389135271098374
+2275056,Everton LFC,Lucy Hope,92.2,34.3,Blocked,Left Foot,Open Play,0,0,28.378336808206356,0.2515190836996518
+2275056,Everton LFC,Hannah Cain,91.8,40.6,Saved,Right Foot,Open Play,0,0,28.206382256503584,0.25801793893788105
+2275056,Liverpool WFC,Niamh Charles,111.4,45.4,Off T,Head,Open Play,0,1,10.154801819828878,0.6118091475626595
+2275056,Liverpool WFC,Rinsola Babajide,98.0,54.2,Blocked,Left Foot,Open Play,0,0,26.18472837361503,0.2351248674797475
+2275056,Liverpool WFC,Rinsola Babajide,84.5,30.9,Off T,Left Foot,Open Play,0,0,36.6477830161662,0.19300016255752567
+2275056,Liverpool WFC,Niamh Charles,110.9,41.7,Off T,Right Foot,Open Play,0,0,9.257429448826489,0.7444439123742983
+2275056,Liverpool WFC,Rebecca Jane,101.0,40.2,Off T,Right Foot,Open Play,0,0,19.001052602421794,0.38056152539274396
+2275056,Everton LFC,Molly Pike,113.3,44.6,Blocked,Right Foot,Open Play,0,0,8.127115109311548,0.7499120162473173
+2275091,Brighton & Hove Albion WFC,Aileen Whelan,104.3,49.5,Blocked,Right Foot,Open Play,0,0,18.3504768330417,0.34149770635493326
+2275091,Brighton & Hove Albion WFC,Kayleigh Green,108.6,42.9,Blocked,Left Foot,Open Play,0,0,11.763077828527708,0.5887319980206976
+2275091,Tottenham Hotspur Women,Kit Graham,84.8,39.4,Blocked,Left Foot,Open Play,0,0,35.205113264979,0.20715083323453248
+2275091,Tottenham Hotspur Women,Kit Graham,103.9,60.8,Off T,Left Foot,Open Play,0,0,26.303041649208552,0.1719904146614581
+2275091,Brighton & Hove Albion WFC,Aileen Whelan,115.6,49.1,Off T,Head,Open Play,0,1,10.107917688624106,0.34803856629051577
+2275091,Brighton & Hove Albion WFC,Aileen Whelan,88.6,51.3,Blocked,Right Foot,Open Play,0,0,33.37139493638227,0.20594265136943332
+2275091,Brighton & Hove Albion WFC,Aileen Whelan,90.3,50.4,Off T,Left Foot,Open Play,0,0,31.46823795511913,0.21898620601193755
+2275091,Tottenham Hotspur Women,Rachel Furness,103.6,54.5,Saved,Right Foot,Open Play,0,0,21.890865674979604,0.2522278475935719
+2275091,Brighton & Hove Albion WFC,Léa Le Garrec,102.2,39.7,Blocked,Right Foot,Open Play,0,0,17.80252791038396,0.40547565614421915
+2275091,Tottenham Hotspur Women,Gemma Suzanne Davison,93.7,27.6,Saved,Right Foot,Open Play,0,0,29.076622912573598,0.22737324270850362
+2275091,Brighton & Hove Albion WFC,Kate Natkiel,93.1,33.0,Blocked,Right Foot,Open Play,0,0,27.795863001533167,0.2537662105353206
+2275091,Brighton & Hove Albion WFC,Léa Le Garrec,82.5,36.7,Saved,Right Foot,Open Play,0,0,37.64491997600739,0.1931115535684363
+2275091,Brighton & Hove Albion WFC,Kayleigh Green,91.3,60.3,Blocked,Right Foot,Open Play,0,0,35.153662682571216,0.17020134218778007
+2275091,Brighton & Hove Albion WFC,Kate Natkiel,99.5,39.2,Blocked,Right Foot,Open Play,0,0,20.515603817582363,0.3528401742490787
+2275091,Brighton & Hove Albion WFC,Léa Le Garrec,88.8,40.7,Saved Off Target,Right Foot,Open Play,0,0,31.207851576165897,0.2334331374382217
+2275091,Tottenham Hotspur Women,Rianna Dean,111.9,30.4,Blocked,Right Foot,Open Play,0,0,12.56065284927499,0.3896811389465844
+2275091,Tottenham Hotspur Women,Hannah Godfrey,115.0,41.6,Off T,Head,Open Play,0,1,5.249761899362675,1.2015420820906222
+2275091,Tottenham Hotspur Women,Ashleigh Neville,114.0,44.3,Blocked,Right Foot,Open Play,0,0,7.381734213584229,0.8186226551081436
+2275091,Tottenham Hotspur Women,Ashleigh Neville,114.8,42.6,Blocked,Left Foot,Open Play,0,0,5.813776741499456,1.0787224003790299
+2275091,Tottenham Hotspur Women,Rachel Furness,97.6,41.7,Saved,Left Foot,Open Play,0,0,22.464416306683784,0.3221472006630952
+2275091,Tottenham Hotspur Women,Rianna Dean,115.7,37.4,Saved,Right Foot,Open Play,0,0,5.024937810560444,1.210608674838375
+2275091,Brighton & Hove Albion WFC,Léa Le Garrec,87.2,37.3,Blocked,Right Foot,Open Play,0,0,32.91094043019737,0.22078564433059708
+2275091,Brighton & Hove Albion WFC,Aileen Whelan,104.2,45.7,Blocked,Right Foot,Open Play,0,0,16.796725871431015,0.40641271622664527
+2275091,Brighton & Hove Albion WFC,Iniabasi Anefiok Umotong,85.0,56.5,Blocked,Right Foot,Open Play,0,0,38.69431482789171,0.17097279531389942
+2275091,Brighton & Hove Albion WFC,Iniabasi Anefiok Umotong,111.9,32.1,Blocked,Right Foot,Open Play,0,0,11.314592347937237,0.47736959034807847
+2275091,Brighton & Hove Albion WFC,Victoria Williams,111.5,33.9,Blocked,Right Foot,Open Play,0,0,10.462313319720453,0.5747499621461853
+2275091,Brighton & Hove Albion WFC,Maya Le Tissier,103.3,30.3,Blocked,Right Foot,Open Play,0,0,19.312690128513946,0.32770187186416644
+2275091,Brighton & Hove Albion WFC,Amanda Nildén,114.8,39.4,Blocked,Left Foot,Open Play,0,0,5.234500931320963,1.2182496545186405
+2275105,Chelsea FCW,Samantha May Kerr,110.5,46.2,Saved,Right Foot,Open Play,0,0,11.344161493913951,0.5427336198348145
+2275105,Manchester City WFC,Ellen White,104.7,29.5,Blocked,Right Foot,Open Play,0,0,18.556400513030535,0.3263155721973784
+2275105,Chelsea FCW,Samantha May Kerr,112.8,34.1,Wayward,Head,Open Play,0,1,9.30859817588019,0.623670826829898
+2275105,Manchester City WFC,Caroline Weir,110.8,39.5,Off T,Right Foot,Open Play,0,0,9.213576938409972,0.7555133163616196
+2275105,Manchester City WFC,Ellen White,108.8,38.4,Off T,Head,Open Play,0,1,11.313708498984765,0.6209639184219705
+2275105,Chelsea FCW,Bethany England,107.8,27.3,Blocked,Left Foot,Open Play,0,0,17.61050822662424,0.2923336336748214
+2275105,Chelsea FCW,Samantha May Kerr,106.0,38.9,Saved,Head,Open Play,0,1,14.04314779527724,0.5085975366514348
+2275105,Chelsea FCW,Erin Cuthbert,117.1,44.0,Blocked,Right Foot,Open Play,0,0,4.940647730814254,1.0921733269981773
+2275105,Manchester City WFC,Ellen White,113.4,40.7,Goal,Right Foot,Open Play,1,0,6.637017402418041,1.0053882654587383
+2275105,Chelsea FCW,Samantha May Kerr,111.8,54.6,Saved,Right Foot,Open Play,0,0,16.745148551147587,0.22112910123170737
+2275105,Manchester City WFC,Caroline Weir,98.7,44.4,Saved,Left Foot,Open Play,0,0,21.74971264177989,0.32702362408510144
+2275105,Chelsea FCW,Bethany England,114.9,33.2,Blocked,Head,Open Play,0,1,8.499999999999995,0.5652669458188562
+2275105,Chelsea FCW,So-Yun Ji,93.9,44.9,Goal,Right Foot,Open Play,1,0,26.555978611228014,0.2694413435213818
+2275105,Chelsea FCW,Bethany England,111.8,46.3,Saved,Right Foot,Open Play,0,0,10.340696301506973,0.5705408092382593
+2275105,Chelsea FCW,Bethany England,115.0,44.1,Saved,Left Foot,Open Play,0,0,6.466065264130886,0.910643559540586
+2275105,Chelsea FCW,Bethany England,114.0,42.5,Saved,Left Foot,Open Play,0,0,6.5,0.9895324616211003
+2275105,Manchester City WFC,Georgia Stanway,108.8,29.2,Goal,Right Foot,Open Play,1,0,15.558920271021382,0.3442295325463049
+2275105,Manchester City WFC,Caroline Weir,118.3,47.6,Saved,Right Foot,Open Play,0,0,7.787810988975017,0.25749453876510386
+2275105,Manchester City WFC,Caroline Weir,94.0,48.6,Blocked,Left Foot,Open Play,0,0,27.385397568777417,0.25285829871388504
+2275105,Manchester City WFC,Lauren Hemp,98.5,25.9,Blocked,Left Foot,Open Play,0,0,25.71108710264893,0.238376083767476
+2275105,Chelsea FCW,Magdalena Lilly Eriksson,111.6,40.1,Goal,Head,Open Play,1,1,8.400595217006954,0.8217340324188744
+2275105,Chelsea FCW,Bethany England,87.3,34.8,Goal,Right Foot,Open Play,1,0,33.110874346655365,0.21753519144574898
+2275105,Manchester City WFC,Janine Elizabeth Beckie,111.5,44.5,Blocked,Head,Open Play,0,1,9.617692030835672,0.66648913775426
+2275105,Manchester City WFC,Lauren Hemp,109.7,38.7,Goal,Left Foot,Open Play,1,0,10.381714694596454,0.6740200688193225
+2275105,Manchester City WFC,Caroline Weir,109.0,30.1,Saved,Right Foot,Open Play,0,0,14.798986451781081,0.3732499970998005
+2275105,Chelsea FCW,Magdalena Lilly Eriksson,113.7,37.0,Off T,Head,Open Play,0,1,6.977822009767801,0.9175499529412001
+2275105,Chelsea FCW,Bethany England,103.2,42.4,Off T,Left Foot,Open Play,0,0,16.970562748477136,0.42104761938286894
+2275122,Reading WFC,Fara Williams,94.9,17.5,Off T,Right Foot,Open Play,0,0,33.70845591242648,0.1621906393182869
+2275122,Reading WFC,Fara Williams,86.3,37.8,Off T,Right Foot,Open Play,0,0,33.77173374288031,0.21546213654683602
+2275122,Reading WFC,Fara Williams,113.4,44.0,Off T,Right Foot,Open Play,0,0,7.71751255262989,0.8081258520889093
+2275122,Bristol City WFC,Abigail Harrison,93.6,25.2,Off T,Right Foot,Open Play,0,0,30.265491900843116,0.21091618707003335
+2275122,Reading WFC,Rachel Rowe,107.3,51.4,Saved,Left Foot,Open Play,0,0,17.066048165876015,0.3228704347047839
+2275122,Reading WFC,Remi Allen,107.3,43.4,Goal,Right Foot,Open Play,1,0,13.147243057006289,0.5278354655868202
+2275122,Reading WFC,Brooke Chaplen,110.1,49.8,Goal,Right Foot,Open Play,1,0,13.93018305694509,0.38149015100774764
+2275122,Reading WFC,Remi Allen,98.3,28.7,Saved,Right Foot,Open Play,0,0,24.465894629054546,0.265055965573403
+2275122,Bristol City WFC,Carla Humphrey,98.1,46.9,Off T,Left Foot,Open Play,0,0,22.96127174178295,0.3024200423730839
+2275122,Bristol City WFC,Charlie Wellings,110.0,30.2,Wayward,Left Foot,Open Play,0,0,14.00142849854971,0.3811775597541044
+2275122,Bristol City WFC,Carla Humphrey,89.1,45.5,Saved,Right Foot,Open Play,0,0,31.385665517876156,0.2287109730923915
+2275122,Bristol City WFC,Charlie Wellings,109.8,52.3,Goal,Right Foot,Open Play,1,0,15.97904878270293,0.2993393975333862
+2275122,Reading WFC,Fara Williams,106.2,32.9,Off T,Right Foot,Open Play,0,0,15.51934276958918,0.41794952020659665
+2275122,Reading WFC,Rachel Rowe,101.3,24.0,Saved,Left Foot,Open Play,0,0,24.610770000144246,0.22712050597886144
+2275122,Reading WFC,Kristine Leine,114.1,33.4,Off T,Left Foot,Open Play,0,0,8.852683209061539,0.5866346659210815
+2275122,Reading WFC,Brooke Chaplen,88.5,43.9,Saved,Left Foot,Open Play,0,0,31.74051039287176,0.2279260805249642
+2275122,Reading WFC,Angharad James,115.5,43.4,Goal,Head,Open Play,1,1,5.640035460881428,1.0610478538287134
+2275122,Bristol City WFC,Yana Daniëls,115.5,39.5,Goal,Right Foot,Open Play,1,0,4.527692569068709,1.3583731795601042
+2275122,Reading WFC,Jade Moore,85.5,26.0,Off T,Right Foot,Open Play,0,0,37.23237838226293,0.181918741761196
+2275122,Reading WFC,Remi Allen,99.6,41.6,Saved,Right Foot,Open Play,0,0,20.462648899885867,0.35298595174628206
+2275122,Bristol City WFC,Carla Humphrey,108.2,32.4,Off T,Right Foot,Open Play,0,0,14.035668847618197,0.4397263270127821
+2275122,Reading WFC,Kristine Leine,118.4,40.3,Off T,Head,Open Play,0,1,1.6278820596099646,2.313188819733682
+2275122,Reading WFC,Remi Allen,105.9,49.4,Off T,Right Foot,Open Play,0,0,16.946090994680745,0.36051990659500643
+2275122,Bristol City WFC,Gemma Evans,108.8,38.0,Saved,Head,Open Play,0,1,11.377170122662315,0.61506720510931
+2275122,Reading WFC,Rachel Rowe,107.8,59.1,Off T,Right Foot,Open Play,0,0,22.663847863944024,0.1766562741715653
+2275122,Reading WFC,Fara Williams,109.6,53.3,Off T,Right Foot,Open Play,0,0,16.883423823383694,0.27322977673209164
+2275122,Bristol City WFC,Ebony Salmon,114.2,32.1,Goal,Left Foot,Open Play,1,0,9.80051019080129,0.47451331460896395
+2275122,Reading WFC,Fara Williams,84.0,38.2,Off T,Right Foot,Open Play,0,0,36.04497191010142,0.20214030597920996
+2275122,Reading WFC,Remi Allen,112.7,36.0,Blocked,Left Foot,Open Play,0,0,8.324061508662702,0.7629159828887007
+2275122,Reading WFC,Jade Moore,102.6,36.5,Off T,Right Foot,Open Play,0,0,17.74852106514794,0.39957091949504586
+2275142,Manchester United,Leah Galton,117.8,46.4,Off T,Head,Open Play,0,1,6.767569726275451,0.46122030931170654
+2275142,Bristol City WFC,Ebony Salmon,103.3,16.6,Saved,Right Foot,Open Play,0,0,28.748043411682822,0.14923375694678565
+2275142,Manchester United,Hayley Ladd,86.6,26.6,Blocked,Right Foot,Open Play,0,0,35.987775702313144,0.1884850156119606
+2275142,Manchester United,Jackie Groenen,102.3,28.5,Blocked,Right Foot,Open Play,0,0,21.107818456676192,0.29128839169873266
+2275142,Manchester United,Lauren James,102.1,20.4,Saved,Right Foot,Open Play,0,0,26.543737491167295,0.1873497855535019
+2275142,Bristol City WFC,Ebony Salmon,116.0,32.0,Goal,Right Foot,Open Play,1,0,8.94427190999916,0.4141805847096425
+2275142,Manchester United,Lauren James,93.8,46.8,Saved,Left Foot,Open Play,0,0,27.068062361388193,0.26056971721768507
+2275142,Manchester United,Katie Zelem,107.1,33.6,Blocked,Right Foot,Open Play,0,0,14.400347218036103,0.453037214965935
+2275142,Manchester United,Hayley Ladd,101.0,38.9,Off T,Right Foot,Open Play,0,0,19.03181546778972,0.3794042290415517
+2275142,Manchester United,Millie Turner,111.4,41.6,Blocked,Left Foot,Open Play,0,0,8.74757109145161,0.7840307394184485
+2275142,Manchester United,Abbie McManus,110.8,33.1,Off T,Right Foot,Open Play,0,0,11.500000000000002,0.5155055299365464
+2275142,Manchester United,Martha Harris,94.9,20.2,Saved,Right Foot,Open Play,0,0,31.9695167307859,0.18018005567769257
+2275142,Manchester United,Amy Turner,103.4,48.1,Off T,Head,Open Play,0,1,18.47078774714278,0.3550116620547333
+2275142,Manchester United,Katie Zelem,91.0,53.8,Off T,Right Foot,Open Play,0,0,32.11603960640228,0.20557181963643453
+2275142,Bristol City WFC,Charlie Wellings,100.2,27.6,Blocked,Right Foot,Open Play,0,0,23.362362894193726,0.26578835802065703
+2275142,Manchester United,Jessica Sigsworth,111.2,43.2,Wayward,Right Foot,Open Play,0,0,9.363759928575698,0.7143688188238352
+2275142,Manchester United,Amy Turner,100.4,47.4,Off T,Right Foot,Open Play,0,0,20.950417656934665,0.3251952198569618
+2275142,Manchester United,Leah Galton,110.6,50.7,Off T,Left Foot,Open Play,0,0,14.242541907960117,0.3483769768064074
+2275142,Manchester United,Jackie Groenen,112.1,44.3,Saved,Right Foot,Open Play,0,0,8.994442728707547,0.7083451246825131
+2275142,Manchester United,Elizabeth Arnott,117.1,37.4,Post,Right Foot,Open Play,0,0,3.8948684188300944,1.4874024735756182
+2275142,Manchester United,Leah Galton,111.9,55.8,Saved,Left Foot,Open Play,0,0,17.7552809045647,0.19395650429762218
+2275142,Manchester United,Amy Turner,91.1,54.3,Blocked,Right Foot,Open Play,0,0,32.24437935516825,0.20327892602236933
+2275142,Manchester United,Ella Toone,94.8,57.2,Saved,Left Foot,Open Play,0,0,30.510326120839814,0.19840891145652126
+2275142,Bristol City WFC,Yana Daniëls,88.2,38.3,Blocked,Right Foot,Open Play,0,0,31.845407832213418,0.22854126075316175
+2275142,Manchester United,Hayley Ladd,92.8,49.3,Saved,Right Foot,Open Play,0,0,28.74595623735624,0.2401919253529392
+2275142,Manchester United,Jackie Groenen,114.9,53.2,Off T,Right Foot,Open Play,0,0,14.150971698084906,0.1971954783378609
+2275142,Manchester United,Martha Harris,108.6,21.7,Off T,Left Foot,Open Play,0,0,21.56038033059714,0.18277955982130883
+2275142,Manchester United,Ella Toone,110.5,38.6,Post,Left Foot,Open Play,0,0,9.60260381354974,0.7229642460435711
+2275142,Manchester United,Leah Galton,115.7,50.5,Saved,Left Foot,Open Play,0,0,11.346365056704283,0.26640081496573315
+data1,Barcelona,Lionel Andrés Messi Cuccittini,111.5,52.9,Off T,Right Foot,Open Play,0,0,15.448624534242521,0.2694896353423866
+data1,Barcelona,Jordi Alba Ramos,113.9,26.4,Off T,Left Foot,Open Play,0,0,14.905368160498417,0.21070233581451414
+data1,Barcelona,Lionel Andrés Messi Cuccittini,93.7,34.7,Saved,Left Foot,Open Play,0,0,26.828715958837833,0.26607509184950806
+data1,Deportivo Alavés,Rubén Sobrino Pozuelo,109.2,39.1,Off T,Head,Open Play,0,1,10.837435120913064,0.6497160417770155
+data1,Barcelona,Luis Alberto Suárez Díaz,107.8,24.7,Off T,Right Foot,Open Play,0,0,19.568597292601225,0.23711990372954275
+data1,Barcelona,Ousmane Dembélé,108.6,27.8,Wayward,Left Foot,Open Play,0,0,16.69730517179344,0.30463154452275465
+data1,Barcelona,Ivan Rakitić,112.5,41.7,Off T,Head,Open Play,0,1,7.6902535718921525,0.8761182524894635
+data1,Barcelona,Lionel Andrés Messi Cuccittini,96.5,52.6,Post,Left Foot,Free Kick,0,0,26.66477076593759,0.241760287034823
+data1,Barcelona,Gerard Piqué Bernabéu,112.4,41.0,Off T,Head,Open Play,0,1,7.665507158694714,0.8867131072626552
+data1,Barcelona,Ousmane Dembélé,102.5,30.1,Saved,Right Foot,Open Play,0,0,20.106217943710845,0.3167037499175888
+data1,Barcelona,Luis Alberto Suárez Díaz,110.0,27.7,Wayward,Right Foot,Open Play,0,0,15.852129194527782,0.2985055481809778
+data1,Barcelona,Ousmane Dembélé,106.1,32.6,Off T,Right Foot,Open Play,0,0,15.74706321826391,0.4092634288936397
+data1,Barcelona,Jordi Alba Ramos,116.5,31.2,Saved,Left Foot,Open Play,0,0,9.470480452437458,0.32397291965119096
+data1,Deportivo Alavés,Mubarak Wakaso,105.6,23.9,Blocked,Left Foot,Open Play,0,0,21.600231480241135,0.22853558658696105
+data1,Barcelona,Luis Alberto Suárez Díaz,110.3,25.3,Blocked,Right Foot,Open Play,0,0,17.611927776367924,0.2348303923210331
+data1,Barcelona,Philippe Coutinho Correia,94.9,26.3,Blocked,Right Foot,Open Play,0,0,28.595454184188082,0.22458236577151147
+data1,Barcelona,Jordi Alba Ramos,106.7,26.5,Blocked,Left Foot,Open Play,0,0,18.95098942008042,0.2744766966986375
+data1,Barcelona,Lionel Andrés Messi Cuccittini,100.0,57.4,Off T,Left Foot,Open Play,0,0,26.50962089506374,0.2092605654793588
+data1,Barcelona,Philippe Coutinho Correia,100.0,27.6,Blocked,Right Foot,Open Play,0,0,23.532105728132365,0.2645768429964207
+data1,Barcelona,Lionel Andrés Messi Cuccittini,97.8,45.4,Goal,Left Foot,Free Kick,1,0,22.847319317591726,0.30925805432381814
+data1,Barcelona,Lionel Andrés Messi Cuccittini,106.3,47.0,Post,Left Foot,Open Play,0,0,15.384732691860464,0.42211449413429647
+data1,Barcelona,Ivan Rakitić,88.5,41.2,Wayward,Right Foot,Open Play,0,0,31.522848856028226,0.23101574960538657
+data1,Barcelona,Luis Alberto Suárez Díaz,108.4,30.2,Saved,Left Foot,Open Play,0,0,15.185519418182569,0.3726641750443294
+data1,Deportivo Alavés,Adrián Marín Gómez,114.5,32.8,Off T,Right Foot,Open Play,0,0,9.060353193998568,0.5301168397295196
+data1,Barcelona,Philippe Coutinho Correia,113.2,31.4,Saved,Right Foot,Open Play,0,0,10.963576058932595,0.43611918702157804
+data1,Barcelona,Philippe Coutinho Correia,105.3,33.4,Goal,Right Foot,Open Play,1,0,16.113658802394944,0.4119594155436289
+data1,Barcelona,Lionel Andrés Messi Cuccittini,106.6,46.8,Saved,Left Foot,Open Play,0,0,15.026643005009472,0.43262199825831593
+data1,Barcelona,Lionel Andrés Messi Cuccittini,111.5,36.2,Goal,Left Foot,Open Play,1,0,9.310746479203479,0.7038581544394725
+data2,Barcelona,Ousmane Dembélé,119.2,27.8,Off T,Right Foot,Open Play,0,0,12.226201372462338,0.04300558601129682
+data2,Real Valladolid,Enes Ünal,105.7,21.6,Saved,Left Foot,Open Play,0,0,23.303433223454434,0.19511640705230007
+data2,Real Valladolid,Rubén Alcaraz Jiménez,88.9,46.8,Saved,Right Foot,Open Play,0,0,31.834729463276418,0.22382544250464323
+data2,Barcelona,Ousmane Dembélé,92.0,28.6,Off T,Right Foot,Open Play,0,0,30.231771367222265,0.2237788487905308
+data2,Barcelona,Ousmane Dembélé,98.8,35.4,Off T,Right Foot,Open Play,0,0,21.693316943243147,0.3272178927078057
+data2,Barcelona,Luis Alberto Suárez Díaz,112.7,31.2,Saved,Right Foot,Open Play,0,0,11.433722053644647,0.42734899631674333
+data2,Barcelona,Philippe Coutinho Correia,100.6,28.5,Saved,Right Foot,Open Play,0,0,22.552383466055208,0.2792667787548844
+data2,Barcelona,Luis Alberto Suárez Díaz,107.2,48.6,Blocked,Right Foot,Open Play,0,0,15.420765220960988,0.3955281504793442
+data2,Barcelona,Lionel Andrés Messi Cuccittini,94.9,38.6,Off T,Left Foot,Free Kick,0,0,25.139013504909055,0.2887251159673462
+data2,Real Valladolid,Enes Ünal,105.8,21.3,Off T,Right Foot,Open Play,0,0,23.48041737278109,0.19087564376068533
+data2,Barcelona,Ousmane Dembélé,109.5,23.2,Saved,Right Foot,Open Play,0,0,19.81136037731887,0.20003486596705541
+data2,Barcelona,Ousmane Dembélé,111.9,49.0,Goal,Right Foot,Open Play,1,0,12.108261642366335,0.4187607833175389
+data2,Real Valladolid,Óscar Plano Pedreño,96.1,28.3,Off T,Right Foot,Open Play,0,0,26.610148440021906,0.24670107297850521
+data2,Real Valladolid,Sergio Gontán Gallardo,112.0,41.8,Saved,Head,Open Play,0,1,8.2,0.8273256721654618
+data2,Real Valladolid,Francisco José Olivas Alba,109.2,36.8,Saved,Head,Open Play,0,1,11.264102272262978,0.6084568542498408
+data2,Barcelona,Gerard Piqué Bernabéu,111.5,39.1,Blocked,Head,Open Play,0,1,8.54751425854324,0.8063625000207134
+data2,Barcelona,Malcom Filipe Silva de Oliveira,108.4,27.6,Saved,Left Foot,Open Play,0,0,16.979988221432894,0.2995614645885149
+data2,Real Valladolid,Rubén Alcaraz Jiménez,91.8,50.2,Off T,Right Foot,Open Play,0,0,29.987997599039524,0.2289296368352637
